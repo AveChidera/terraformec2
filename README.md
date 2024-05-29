@@ -1,1 +1,1 @@
-# terraformec2
+Terraform is a popular infrastructure-as-code tool that allows you to manage and provision cloud resources, including Amazon Web Services (AWS) EC2 instances. By storing your Terraform code on GitHub, you can version control and collaborate on your infrastructure configurations. In this article, we will walk through the process of creating an EC2 instance using Terraform with code stored on GitHub.
